@@ -117,37 +117,43 @@ class Beranda extends StatelessWidget {
                     ],
                   ),
                   Row(
-                    children: [Text('sekarang (Kang Qeis) adalah ketua')],
+                    children: [Text('sekarang adalah ketua di oragnisasi')],
                   ),
                   Row(
                     children: [
                       Text(
-                          'diorganisasi yang sah dimata hukum, karena')
+                          'yang sah dimata hukum, karena OSIS')
                     ],
                   ),
                   Row(
-                    children: [Text('OSIS merupakan satu-satunya yang disahkan')],
+                    children: [Text('merupakan satu-satunya yang disahkan oleh')],
                   ),
                   Row(
-                    children: [Text('oleh Undang Undang. Dan ketua OSIS adalah')],
+                    children: [Text('Undang Undang. Dan ketua OSIS adalah')],
                   ),
                   Row(
                     children: [Text('ketua dari seluruh siswa di sekolah.')],
                   ),
                   Row(
-                    children: [Text('Pengurus OSIS dan Anggota OSIS memiliki perbedaan,')],
+                    children: [Text('Pengurus dan Anggota OSIS memiliki perbedaan,')],
                   ),
                   Row(
                     children: [
                       Text(
-                          'Pengurus OSIS adalah orang yang terlibat langsunng dalam masalah di Sekolah dan diberi amanah Pengurus OSIS dan Anggota OSIS memiliki perbedaan, Pengurus OSIS adalah terlibat langsung dalam masalah di Sekolah dan diberi amanah')
+                          'Pengurus OSIS adalah orang yang terlibat langsung')
                     ],
+                  ),
+                  Row(
+                    children: [Text('dalam masalah di Sekolah dan diberi amanah')],
                   ),
                   Row(
                     children: [
                       Text(
-                          'langsung oleh ketua OSIS, sedangkan Anggota OSIS adalah siswa yang perannya hanya sebagai anggota.')
+                          'langsung oleh ketua OSIS, sedangkan Anggota adalah')
                     ],
+                  ),
+                  Row(
+                    children: [Text('siswa yang perannya hanya sebagai anggota.')],
                   ),
                   Row(
                     children: [Text('')],
@@ -156,8 +162,11 @@ class Beranda extends StatelessWidget {
                     children: [
                       Text('4.'),
                       Text(
-                          'KETUA OSIS MENURUT KETUA MPK YANG MASIH MENJABAT SEKARANG:')
+                          'KETUA OSIS MENURUT KETUA MPK YANG')
                     ],
+                  ),
+                  Row(
+                    children: [Text('MASIH MENJABAT SEKARANG (KANG ALMUSTAJIB):')],
                   ),
                   Row(
                     children: [Text('')],
