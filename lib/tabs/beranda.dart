@@ -28,113 +28,150 @@ class Beranda extends StatelessWidget {
               child: const Column(
                 children: [
                   Row(
+                    children: [Text('1. '), Text('KETUA OSIS SECARA UMUM:')],
+                  ),
+                  Row(
+                    children: [Text(' ')],
+                  ),
+                  Row(
                     children: [
-                      Text('1.'),Text('KETUA OSIS SECARA UMUM:')
+                      Text('Ketua OSIS secara umum adalah orang yang ')
                     ],
                   ),
                   Row(
                     children: [
-                      Text(' ')
+                      Text('bertugas untuk mengkoordinir terlaksananya')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('Ketua OSIS secara umum adalah orang yang bertugas untuk mengkoordinir terlaksananya program kerja, bertanggung jawab atas segala kegitan')
+                      Text('program kerja, bertanggung jawab atas segala')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('yang dilaksanakan  oleh pengurus OSIS, memantau jalannya sebuah program kerja, memberi saran atau nasehat untuk sebuah kegiatan')
+                      Text('krgiatan yang dilaksanakan  oleh pengurus')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('atau permasalahan apabila perlu,mengambil keputusan atas suatu pembahasan')
+                      Text('OSIS, memantau jalannya sebuah program')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('kerja,memberi saran atau nasehat untuk sebuah')],
+                  ),
+                  Row(
+                    children: [
+                      Text('kegiatan atau permasalahan apabila perlu,')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('')
+                      Text('mengambil keputusan atas suatu permsalahan')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('')],
+                  ),
+                  Row(
+                    children: [Text('2. '), Text('KETUA OSIS MENURUT BK:')],
+                  ),
+                  Row(
+                    children: [Text('')],
+                  ),
+                  Row(
+                    children: [
+                      Text('Ketua OSIS menurut BK adalah orang  terdepan')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('2.'),Text('KETUA OSIS MENURUT BK:')
+                      Text('yang menaungi masalah siswa disekolah yang')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('')
+                      Text('memiliki tugas yaitu menjaga visi misi sekolah.')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('')],
+                  ),
+                  Row(
+                    children: [
+                      Text('3. '),
+                      Text('KETUA OSIS MENURUT KETUA OSIS MASIH')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('MENJABAT SEKARANG (KANG QEIS):')],
+                  ),
+                  Row(
+                    children: [Text('')],
+                  ),
+                  Row(
+                    children: [
+                      Text(
+                          'Ketua OSIS menurut ketua OSIS yang menjabat')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('sekarang (Kang Qeis) adalah ketua')],
+                  ),
+                  Row(
+                    children: [
+                      Text(
+                          'diorganisasi yang sah dimata hukum, karena')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('OSIS merupakan satu-satunya yang disahkan')],
+                  ),
+                  Row(
+                    children: [Text('oleh Undang Undang. Dan ketua OSIS adalah')],
+                  ),
+                  Row(
+                    children: [Text('ketua dari seluruh siswa di sekolah.')],
+                  ),
+                  Row(
+                    children: [Text('Pengurus OSIS dan Anggota OSIS memiliki perbedaan,')],
+                  ),
+                  Row(
+                    children: [
+                      Text(
+                          'Pengurus OSIS adalah orang yang terlibat langsunng dalam masalah di Sekolah dan diberi amanah Pengurus OSIS dan Anggota OSIS memiliki perbedaan, Pengurus OSIS adalah terlibat langsung dalam masalah di Sekolah dan diberi amanah')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('Ketua OSIS menurut BK adalah orang  terdepan yang menaungi maslah siswa')
+                      Text(
+                          'langsung oleh ketua OSIS, sedangkan Anggota OSIS adalah siswa yang perannya hanya sebagai anggota.')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('')],
+                  ),
+                  Row(
+                    children: [
+                      Text('4.'),
+                      Text(
+                          'KETUA OSIS MENURUT KETUA MPK YANG MASIH MENJABAT SEKARANG:')
+                    ],
+                  ),
+                  Row(
+                    children: [Text('')],
+                  ),
+                  Row(
+                    children: [
+                      Text(
+                          'Ketua OSIS menurut ketua MPK yang masih menjabat sekarang (Kang ALmustajib) adalah sese orang yang diberi amanah oleh warga sekolah')
                     ],
                   ),
                   Row(
                     children: [
-                      Text('di sekolah yang memiliki tugas yaitu menjaga visi misi sekolah')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('3.'), Text('KETUA OSIS MENURUT KETUA OSIS MASIH MENJABAT SEKARANG:')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('Ketua OSIS menurut ketua OSIS yang menjabat sekarang (Kang Qeis) adalah ketua di organisasi yang sah dimata hukum,')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('karena OSIS merupakan satu-satunya yang disah kan oleh Undang Undang.Dan ketua OSIS adalah ketua dari seluruh siswa di Sekolah.')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('Pengurus OSIS dan Anggota OSIS memiliki perbedaan, Pengurus OSIS adalah terlibat langsung dalam masalah di Sekolah dan diberi amanah')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('langsung oleh ketua OSIS, sedangkan Anggota OSIS adalah siswa yang perannya hanya sebagai anggota.')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('4.'),Text('KETUA OSIS MENURUT KETUA MPK YANG MASIH MENJABAT SEKARANG:')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('Ketua OSIS menurut ketua MPK yang masih menjabat sekarang (Kang ALmustajib) adalah sese orang yang diberi amanah oleh warga sekolah')
-                    ],
-                  ),
-                  Row(
-                    children: [
-                      Text('untuk menyelesaikan tugas yang diberikan dengan baik.')
+                      Text(
+                          'untuk menyelesaikan tugas yang diberikan dengan baik.')
                     ],
                   ),
                 ],
